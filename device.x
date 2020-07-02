@@ -1,0 +1,2 @@
+PROVIDE(GPIOA = DefaultHandler);
+
